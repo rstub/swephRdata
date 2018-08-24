@@ -1,0 +1,9 @@
+Package: swephRdata
+Type: Package
+Title: Data files for the 'sewphR' package
+Version: 0.0.1
+Author: Ralf Stubner
+Maintainer: Ralf Stubner <ralf.stubner@gmail.com>
+Description: Data files to provide the full Swiss Ephemeris for usage with the
+  'swephR' package.
+License: GPL (>= 2)
