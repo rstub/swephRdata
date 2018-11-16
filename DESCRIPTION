@@ -1,6 +1,6 @@
 Package: swephRdata
 Type: Package
-Title: Data files for the 'sewphR' package
+Title: Data files for the 'swephR' package
 Version: 0.0.1
 Author: Ralf Stubner
 Maintainer: Ralf Stubner <ralf.stubner@gmail.com>
